@@ -13,26 +13,41 @@ The dataset used in this project is the "Credit Card Fraud Detection" dataset fr
 Files:
 
 creditcard.csv: The Credit Card Fraud Detection dataset.
+
 script.py: The Python script that loads the dataset, performs exploratory data analysis, and trains a machine learning model to detect fraudulent transactions.
+
 Instructions:
 
 Download the creditcard.csv dataset from Kaggle and place it in the same directory as the script.py file.
+
 Run the script.py file using Python 3.x.
+
 The script will load the dataset, perform exploratory data analysis, and train a machine learning model to detect fraudulent transactions.
+
 Dependences:
 
 Python 3.x
+
 PyTorch
+
 pandas
+
 scikit-learn
+
 torch.optim
+
 torch.nn
+
 Todo:
 
 Preprocess the dataset by handling missing values and encoding categorical variables.
+
 Split the dataset into training and testing sets.
+
 Train a machine learning model (e.g., neural network, decision tree, random forest) to detect fraudulent transactions.
+
 Evaluate the performance of the model using metrics such as accuracy, precision, recall, and F1-score.
+
 Note:
 
 This README file will be updated as the project progresses.
