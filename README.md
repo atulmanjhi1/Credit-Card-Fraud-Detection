@@ -47,7 +47,3 @@ Split the dataset into training and testing sets.
 Train a machine learning model (e.g., neural network, decision tree, random forest) to detect fraudulent transactions.
 
 Evaluate the performance of the model using metrics such as accuracy, precision, recall, and F1-score.
-
-Note:
-
-This README file will be updated as the project progresses.
